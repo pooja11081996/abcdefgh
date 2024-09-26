@@ -8,4 +8,8 @@ public static void main(String[] args) {
 	{
 		System.out.println("m4 method")
 	}
+
+	public void m5()
+	{
+	}
 }
